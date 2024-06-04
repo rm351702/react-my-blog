@@ -4,7 +4,6 @@ FIAP Blog é uma aplicação web construída com React e Vite, que utiliza Conte
 
 ## Índice
 
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Scripts Disponíveis](#scripts-disponíveis)
@@ -12,8 +11,6 @@ FIAP Blog é uma aplicação web construída com React e Vite, que utiliza Conte
 - [Componentes](#componentes)
 - [Páginas](#páginas)
 - [Integração com Contentful](#integração-com-contentful)
-
-## Estrutura do Projeto
 
 ## Tecnologias Utilizadas
 
