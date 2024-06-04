@@ -2,6 +2,9 @@
 
 FIAP Blog é uma aplicação web construída com React e Vite, que utiliza Contentful como CMS para gerenciar o conteúdo. Este projeto serve como exemplo de um blog simples com componentes reutilizáveis e navegação entre páginas.
 
+Exemplo do blog: https://fiap-react-my-blog.netlify.app/
+
+
 ## Índice
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
