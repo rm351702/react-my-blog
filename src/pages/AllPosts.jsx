@@ -10,7 +10,7 @@ function AllPosts() {
     const [posts, setPosts] = useState([]);
     const [currentPage, setCurrentPage] = useState(1);
     const [totalPosts, setTotalPosts] = useState(0);
-    const postsPerPage = 10;
+    const postsPerPage = 5;
 
     const getPosts = async (page = 1) => {
         try {
